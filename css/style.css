@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+} 
+    /* Topo, Direita, Baixo, Esquerda
+    */
+
+article{
+    color: orange;
+    width: 20%;
+    display: inline-block;
+    margin: 40px;
+    padding: 10px 0px 10px 0px;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
